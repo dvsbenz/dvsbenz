@@ -11,7 +11,7 @@ https://www.linkedin.com/in/davis-benz-pe-a2834172/\
 This github profile contains some non-proprietary tools I've written for my professional work and some personal projects\
 \
 Currently working on an inverted pendulum control system in C++\
-get through a 2D qualificaiton model and then I'll move on to a 3D system\
+working through a 2D qualificaiton model and then I'll move on to the full 3D system\
 I'm happy to colaborate on any control systems or mechatronics projects\
 \
 I write good Python, C, and C++
