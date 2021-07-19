@@ -8,7 +8,7 @@ US Patent 10960128, “Biological component collection system and circuit intern
 You can reach me at dvsbenz@gmail.com & 303-718-9681\
 https://www.linkedin.com/in/davis-benz-pe-a2834172/\
 \
-This github contains some non-proprietary tools I've written for my professional work and some personal projects\
+This github profile contains some non-proprietary tools I've written for my professional work and some personal projects\
 \
 Currently working on an inverted pendulum control system in C++\
 get through a 2D qualificaiton model and then I'll move on to a 3D system\
